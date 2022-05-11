@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1652281809,
+      "filename": "lineage-18.1-20220511-UNOFFICIAL-lisa.zip",
+      "id": "300164b9f88e96cf809e1710ebb3cce9",
+      "romtype": "unofficial",
+      "size": 1116704550,
+      "url": "https://github.com/ItsVixano-releases/LineageOS_test/releases/download/20220511/lineage-18.1-20220511-UNOFFICIAL-lisa.zip",
+      "version": "18.1"
+    }
+  ]
+}
